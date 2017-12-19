@@ -1,0 +1,38 @@
+
+
+#boxes {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.box  {
+	display: flex;
+	flex-wrap: wrap;
+	flex-direction: column;
+	justify-content: space-between;
+}
+.box_img {
+	margin: auto;
+}
+.box_text {
+	align-self: center;
+}
+.block_footer {
+	display: flex;
+	
+}
+.block_newsletter {
+	flex: 4;
+
+}
+
+.block_form {
+	flex: 5;
+
+}
+.form2 {
+	display: flex;
+
+}
